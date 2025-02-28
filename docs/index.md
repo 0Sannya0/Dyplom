@@ -1,2 +1,2 @@
-tittle: Розробка 2D-гри "Grimcaster"
+title: Розробка 2D-гри "Grimcaster"
 description: Дипломна робота Дерев'янка О.Р.
