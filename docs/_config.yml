@@ -1,6 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme 
+
 tittle: Розробка 2D-гри "Grimcaster"
 description: Дипломна робота Дерев'янка О.Р.
 # Розробка 2d гри "Grimcaster"
